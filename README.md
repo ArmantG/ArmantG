@@ -8,7 +8,6 @@ ArmantG/ArmantG is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ArmantG&theme=blue-green)
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 
