@@ -1,4 +1,4 @@
-<h1 align="center">I'm Armant</h1>
+<h1 align="center">I'm Armant Goldswain</h1>
 <h3 align="center">A recreational (still learning) web developer</h3>
 
 <br>
