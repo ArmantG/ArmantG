@@ -3,14 +3,17 @@
 
 <br>
 
-- 🌱 I’m currently learning -->  **C#, Blazor, .Net Maui**
-
-- ⚡ Fun fact:  **Learning to code with a 1yr old and a pregnant wife is not easy...Who knew...?**
-
+<p align="center">
+- 🌱 I’m currently learning -->  C#, Blazor, .Net Maui
+<p align="center">
+- ⚡ Fun fact:  Learning to code with a 1yr old and a pregnant wife is not easy...Who knew...?
+<p align="center">
 - ✨ My favourite IDE's are -->  
-![image](https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=Rider&logoColor=white) 
-![image](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
+<p align="center"> <a> <img src="https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=Rider&logoColor=white" alt="rider" width="auto" height="40"/> </a> <a> <img src="https://user-images.githubusercontent.com/70665718/190619619-72d322fb-79b7-409b-86c2-be370a078d8a.png" alt="vscodium" width="auto" height="40"/> </a> 
+
+
+<br>
 <br>
 
 # 💻 Tech Stack:
@@ -20,8 +23,8 @@
 ![image](https://img.shields.io/badge/apple%20silicon-333333?style=for-the-badge&logo=apple&logoColor=white)
 ![image](https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=Rider&logoColor=white)
 ![image](https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white)
-![image](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+<a> <img src="https://user-images.githubusercontent.com/70665718/190619619-72d322fb-79b7-409b-86c2-be370a078d8a.png" alt="csharp" width="auto" height="28"/> </a> 
 
 <br>
 
